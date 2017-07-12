@@ -1,0 +1,7 @@
+#og_meta .meta-fieldset {
+  border: 1px solid lightgrey;
+  margin-top: 1em;
+  padding: 1em; }
+  #og_meta .meta-fieldset textarea {
+    min-height: 80px;
+    resize: vertical; }
